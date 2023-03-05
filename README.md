@@ -20,4 +20,4 @@ Hey im a young guy who likes to code
 - 🖥️ with a minor in Computer Science!
 
 - 📫 How to reach me: at Discord **PixelatedSpade#0498**
-                       on Twitter **@PixelatedSpade**
+- 📫 How to reach me: on Twitter **@PixelatedSpade**
