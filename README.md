@@ -17,6 +17,7 @@ Hey im a young guy who likes to code
 
 - 🛠 I am majoring in Chemical Engineering, 
 
-- 🖥️ With a minor in Computer Science!
+- 🖥️ with a minor in Computer Science!
 
 - 📫 How to reach me: at Discord **PixelatedSpade#0498**
+                       on Twitter **@PixelatedSpade**
