@@ -11,11 +11,9 @@
 
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 Hey im a young guy passionate about coding and cats
-- 🔭 I’m currently working on mostly fullstack webapps and discord bots
-- 🌱 I’m currently learning rust hopefully
-- 💬 Ask me about JS backends frontends and stuff
-- 📫 How to reach me: at Discord **Bag#2048**
-- 📫 How to reach me: at Discord **Baggie#2048**
-- ⚡ Fun fact: fun facts arent fun
+- 🍁 I live in Ontario, Canada!
+- 🛠 I am majoring in Chemical Engineering, 
+- 🖥️ With a minor in Computer Science!
+- 📫 How to reach me: at Discord **PixelatedSpade#0498**
