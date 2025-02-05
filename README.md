@@ -13,9 +13,7 @@ Hey im a young guy who likes to code
 
 - 🍁 I live in Ontario, Canada!
 
-- 🛠 I am majoring in Chemical Engineering, 
-
-- 🖥️ with a minor in Computer Science!
+- 🛠 I am majoring in Physics
 
 - 📫 How to reach me: at Discord **PixelatedSpade#0498**
 - 📫 How to reach me: on Twitter **@PixelatedSpade**
