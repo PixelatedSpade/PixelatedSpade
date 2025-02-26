@@ -8,7 +8,7 @@ I am currently looking to further develop my coding skills, such as data collect
 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)](#)
